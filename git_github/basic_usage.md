@@ -1,6 +1,7 @@
 # basic usage
 ## deploy to git
-reference: https://www.jianshu.com/p/7edb6b838a2e\
+reference: https://www.jianshu.com/p/7edb6b838a2e
+
 **Github is just like a larger bracket out of git (git is local, and github is distributed)**
 1. make sure git is installed\
 easy way: install xcode on mac
